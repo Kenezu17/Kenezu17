@@ -1,9 +1,45 @@
-👋 Hi, I’m @Fumar
+# 👋 Hi, I'm Kenezu!
 
-- 💻 Aspiring Software Engineer from the Philippines
-- 🌱 I’m currently learning Web Development, System Development, and Android Application Development
-- ⚛️ Working with React, Electron, Python, Fastapi, Django,MySql, Js,Nodejs,  tailwind, Flutter, HTML, and CSS
-- 🤖 Building AI desktop assistants, web systems, and mobile applications
-- 📫 How to reach  me:    jankennethfumar3@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I enjoy coding late at night because that’s when I focus best 🌙
+### 💻 Aspiring Software Engineer | Software Developer
+
+I'm passionate about developing scalable mobile
+applications, modern web applications, and backend APIs.
+
+## 🛠️ Tech Stack
+
+### 📱 Mobile Development
+- Flutter
+- Dart
+
+### 🌐 Frontend Development
+- HTML5
+- CSS3
+- Tailwind CSS
+- JavaScript
+- React.js
+
+### ⚙️ Backend Development
+- Python
+- FastAPI
+- Node.js
+
+### 🗄️ Database & Tools
+- MySQL
+- Firebase / Firestore
+- Git & GitHub
+- VS Code
+- Android Studio
+
+## 🚀 Featured Projects
+- 📚 eBmics — Mobile Digital Reading Platform
+- ☕ BrewPOS — POS & Inventory Management
+- 🚌 CommutePh — Commuter Route Guide
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kenezu17&show_icons=true&theme=tokyonight)
+
+## 🎯 Current Goals
+- Build scalable full-stack applications
+- Improve software architecture skills
+- Master Flutter and backend development
+- Grow as a professional software engineer
